@@ -1,0 +1,99 @@
+Name,Distance,Magnitude,Spectral Class
+0.000−26.74,Sun,,0.000015813
+0.001−1.46,Sirius,α CMa,0008.6
+0.003−0.74,Canopus,α Car,0310
+0.004−0.27,Alpha Centauri,α Cen,0004.4
+0.005−0.05,Arcturus,α Boo,0037
+0.03,Vega,α Lyr,0025
+0.08,Capella,α Aur,0043
+0.13,Rigel,β Ori,0860
+0.34,Procyon,α CMi,0011.4
+0.45,Betelgeuse,α Ori,0640[1]
+0.46,Achernar,α Eri,0144
+0.61,Hadar,β Cen,0390
+0.76,Altair,α Aql,0017
+0.76,Acrux,α Cru,0320
+0.86,Aldebaran,α Tau,0065
+0.96,Antares,α Sco,0600
+0.97,Spica,α Vir,0260
+1.14,Pollux,β Gem,0034
+1.16,Fomalhaut,α PsA,0025
+1.25,Deneb,α Cyg,"2,600"
+1.25,Mimosa,β Crucis,0350
+1.39,Regulus,α Leo,0077
+1.50,Adhara,ε CMa,0430
+1.62,Shaula,λ Sco,0700
+1.62,Castor,α Gem,0052
+1.64,Gacrux,γ Cru,0088
+1.64,Bellatrix,γ Ori,0240
+1.65,Elnath,β Tau,0130
+1.69,Miaplacidus,β Car,0110
+1.69,Alnilam,ε Ori,"2,000"
+1.72,Gamma Velorum,"γ1,2 Vel","01,100"
+1.74,Alnair,α Gru,0101
+1.77,Alioth,ε UMa,0081
+1.77,Alnitak,ζ Ori,01050
+1.79,Dubhe,α UMa,0120
+1.80,Mirfak,α Per,0590
+1.82,Wezen,δ CMa,"1,600"
+1.84,Sargas,θ Sco,0270
+1.85,Kaus Australis,ε Sgr,0140
+1.86,Avior,ε Car,0630
+1.86,Alkaid,η UMa,0104
+1.90,Menkalinan,β Aur,081
+1.91,Atria,α TrA,0390
+1.92,Alhena,γ Gem,0109
+1.94,Peacock,α Pav,0180
+1.96,Alsephina[2],δ Vel,0080
+1.98,Mirzam,β CMa,0500
+1.98,Polaris,α UMi,0430
+2.00,Alphard,α Hya,0180
+2.23,Mintaka,δ Ori,01200
+2.42,Scheat,β Peg,0196
+2.98,Almaaz,ε Aur,0653
+3.35,Rasalgethi,α Her,0360
+3.50,Tau Ceti,τ Cet,011.9
+3.56,Delta Pavonis,δ Pav,019.92
+3.74,Ran,ε Eri,010.48
+3.83,V382 Carinae,Car,"08,900"
+4,Eta Carinae,η Car,"07,500"
+4.07,Delta Cephei,δ Cep,0887
+4.08,Mu Cephei,μ Cep,"06,000"
+4.09,Titawin,υ And,044.25
+4.1,Rho Cassiopeiae,ρ Cas,"08,154"
+4.82,P Cygni,P Cyg,"05,545"
+4.86,La Superba,CVn,"01,000"
+4.91,VV Cephei,Cep,"04,900"
+5.20,61 Cygni,Cyg,011.41
+5.4,R Doradus,Dor,0178
+5.47,Polaris Australis,Oct,0281
+5.71,R Coronae Borealis,Bor,"04,566"
+5.88,54 Piscium,Psc,036.1
+6.57,Mira,ο Ceti,0300
+6.65,RW Cephei,Cep,"014,000"
+6.67,Lacaille 8760,Mic,012.87
+6.75,V838 Monocerotis,Mon,"019,896"
+7.20,HD 140283,Lib,0202
+7.4,II Pegasi,Peg,0130
+8.05,VY Canis Majoris,CMa,"03,900"
+8.3,Pistol Star,Sgr,"025,000"
+8.6,S Doradus,Dor,"0169,000"
+8.9,UY Scuti,Sct,"05,100"
+9.5,Barnard's Star,Oph,05.98
+11.13,HE 1523-0901,Lib,"010,000"
+11.13,Proxima Centauri,Cen,04.25
+11.71,KIC 8462852,Cyg,"01,470"
+12.23,R136a1,Dor,"0163,000"
+12.78,Melnick 42,Dor,"0163,000"
+14.10,WR 102,Sag,"018,134"
+14.38,VFTS 352,Dor,"0164,000"
+14.68,YBP 1194,Cnc,"02,772"
+14.71,Gliese 1214,Oph,047.5
+16.20,Luhman 16,Vel,06.50
+16.6,NML Cygni,Cyg,"05,251"
+17.30,VB 10,Aql,018.72
+18.46,WOH G64,Dor,"0163,000"
+18.80,TRAPPIST-1,Aqr,039.6
+21.05,2MASS J0523-1403,Lep,040.3
+25,WISE 0855−0714,Hya,07.27
+28.4,Icarus,Leo,"014,400,000,000"
